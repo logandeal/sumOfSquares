@@ -1,1 +1,3 @@
-# sumOfSquares
+# CS/ECE 3280 Assembly and Computer Organization Lab #5
+Prompt:
+You are to design, write, assemble, and simulate an assembly language program which will generate sum of integer squares numbers. Giving is an array NARR of byte-long numbers (with a $FF sentinel). Each element in the table corresponds to the end value N of the sum of squares to be generated (as defined in Lab3). The actual calculation of the corresponding 4-byte sum of integer squares has to be implemented in a subroutine. The 4-byte sum has to be passed back to the main program, which stores it consecutively in the RESARR array.
